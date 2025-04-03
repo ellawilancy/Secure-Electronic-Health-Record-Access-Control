@@ -5,3 +5,7 @@ O
 contracts/patient-identity.clar,c/a/cae31cf20ae94b1d7dd7e71ba95581f84e549b91
 N
 tests/patient-identity.test.ts,1/3/133cd63aa5692b360205dca0fe08b90143b0972b
+T
+$contracts/provider-verification.clar,9/0/90e04ec54ebccb20c9508bc713734ad7f3a6965e
+S
+#tests/provider-verification.test.ts,8/6/860d95ca41eac302534a801b7c132a241e18e336
